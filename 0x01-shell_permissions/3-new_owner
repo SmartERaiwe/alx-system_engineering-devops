@@ -1,2 +1,2 @@
 #!/ban/bash
-chown
+sudo chown betty hello
