@@ -1,0 +1,3 @@
+#!/ban/bash
+chown -hR  vincent:staff ./
+
