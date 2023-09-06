@@ -1,3 +1,2 @@
 #!/bin/bssh
 echo $(($POWER/$DIVIDE))
-
